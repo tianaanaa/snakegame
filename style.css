@@ -1,0 +1,16 @@
+.grid {
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+}
+
+.grid div { width: 80px;
+            height: 80px;
+}
+
+.snake { background-color:blueviolet;
+
+
+}
